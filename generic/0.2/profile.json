@@ -1,6 +1,6 @@
 {
     "BagIt-Profile-Info": {
-        "BagIt-Profile-Identifier": "https://raw.githubusercontent.com/RDAResearchDataRepositoryInteropWG/bagit-profiles/master/generic/0.1/profile.json",
+        "BagIt-Profile-Identifier": "https://raw.githubusercontent.com/RDAResearchDataRepositoryInteropWG/bagit-profiles/master/generic/0.2/profile.json",
         "Source-Organization": "rd-alliance.org",
         "Contact-Name": "Research Data Repository Interoperability WG",
         "Contact-Email": "rda-rdrinterop-wg@rda-groups.org",
